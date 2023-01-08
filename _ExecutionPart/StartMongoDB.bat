@@ -1,3 +1,2 @@
-BackEnd\MongoDB\bin\mongos.exe
---dbpath data\db
+BackEnd\MongoDB\bin\mongod.exe --dbpath BackEnd\MongoDB\Data\DB
 pause
